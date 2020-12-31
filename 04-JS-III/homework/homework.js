@@ -20,6 +20,7 @@ function obtenerLargoDelArray(array) {
   let longitudDelArray = array.length;
   return longitudDelArray;
 
+  
 }
 
 function incrementarPorUno(array) {
